@@ -6,3 +6,8 @@
 commit aa41b7d3507e5307ec10486cbc15893c875cfade (HEAD -> develop, origin/develop)
 Author: docent09 <vfdekan@gmail.com>
 Date:   Fri Oct 28 11:11:58 2022 +0400
+
+Ссылка на репозиторий коллеги:
+https://github.com/TechnoPr0/DE_Sprint
+Номер его последнего коммита:
+1d8d5164080349e81c41303ff7680c66447aa428
